@@ -1,4 +1,4 @@
-# EX 07 : Edge Linking using Hough Transformm
+# EXP-7 Edge Linking using Hough Transformm
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
